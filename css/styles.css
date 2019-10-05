@@ -1,0 +1,118 @@
+/*-------------------- Tags --------------------*/
+body {
+  margin: 0;
+  background-color: #e0fcff;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  margin: 100px auto 0 auto;
+  font-size: 5.625rem;
+  color: #7098da;
+
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  color: #6eb6ff;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+  font-family: 'Indie Flower', cursive;
+}
+
+/*-------------------- Classes --------------------*/
+.welcome-container {
+  position: relative;
+  padding: 50px 0 400px 0;
+
+  width: 100%;
+
+  border-top: 10px solid;
+  border-bottom: 10px solid;
+}
+.tite-subtitle-container{
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+.YellowFlag-img {
+  position: absolute;
+  top: 25px;
+  right: 50px;
+
+  height: 256px;
+  width: 256px;
+}
+.RedFlag-img {
+  position: absolute;
+  top: 25px;
+  left: 50px;
+
+  height: 256px;
+  width: 256px;
+}
+.webdev-img{
+  position: relative;
+  top: 360px;
+}
+.profile-container{
+  position: relative;
+  background-color: #b1e8ed;
+
+  height: 986px;
+  width: 100%;
+}
+.me-img{
+  padding-top: 100px;
+  vertical-align: middle;
+
+  height: 263px;
+  width: 214px;
+}
+.skills-container {
+  position: relative;
+
+  padding-bottom: 50px;
+  border-top: 10px solid;
+  border-bottom: 10px solid;
+
+  width: 100%;
+}
+.cpp-row{
+
+}
+.cpp-img{
+  height: 192px;
+  width: 192px;
+}
+.html-row{
+
+}
+.folder-img{
+  height: 192px;
+  width: 192px;
+}
+.aquarium-row{
+
+}
+.fish-img {
+  height: 192px;
+  width: 192px;
+}
+.contact-container {
+  background-color: #b1e8ed;
+}
+
+.icon-credit {
+  position: absolute;
+  display: inline;
+  position: static;
+}
